@@ -5,7 +5,11 @@ This project employs graph theory to analyze financial portfolios. It involves c
 
 ## Requirements
 - MATLAB
-- Data File: `projectdata_time_series.mat`
+- Data File: `projectdata_time_series.mat` - The dataset used in this project contains time series data for financial portfolio analysis.
+
+This project utilizes the dataset provided by Kozak et al. If you use the data or the analysis provided here, please include the following citation:
+
+> Kozak, S., Nagel, S., Santosh, S., & Daniel, K. (2018). Discussion of: Shrinking the Cross Section.
 
 ## Installation
 Clone this repository or download the script files and the required data file `projectdata_time_series.mat`.
